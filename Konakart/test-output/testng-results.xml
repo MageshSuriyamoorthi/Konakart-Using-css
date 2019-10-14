@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18653" started-at="2019-10-14T14:17:33Z" finished-at="2019-10-14T14:17:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18653" started-at="2019-10-14T14:17:33Z" finished-at="2019-10-14T14:17:52Z">
+      <class name="com.atmecs.Konakart.testscripts.konakartHero">
+        <test-method status="PASS" signature="browserSelect()[pri:0, instance:com.atmecs.Konakart.testscripts.konakartHero@2374d36a]" name="browserSelect" is-config="true" duration-ms="8036" started-at="2019-10-14T14:17:25Z" finished-at="2019-10-14T14:17:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSelect -->
+        <test-method status="PASS" signature="open_url()[pri:0, instance:com.atmecs.Konakart.testscripts.konakartHero@2374d36a]" name="open_url" is-config="true" duration-ms="5564" started-at="2019-10-14T14:17:33Z" finished-at="2019-10-14T14:17:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_url -->
+        <test-method status="PASS" signature="homepage_Search()[pri:0, instance:com.atmecs.Konakart.testscripts.konakartHero@2374d36a]" name="homepage_Search" duration-ms="5411" started-at="2019-10-14T14:17:38Z" finished-at="2019-10-14T14:17:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage_Search -->
+        <test-method status="PASS" signature="open_url()[pri:0, instance:com.atmecs.Konakart.testscripts.konakartHero@2374d36a]" name="open_url" is-config="true" duration-ms="1402" started-at="2019-10-14T14:17:44Z" finished-at="2019-10-14T14:17:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_url -->
+        <test-method status="PASS" signature="Hero_validation()[pri:1, instance:com.atmecs.Konakart.testscripts.konakartHero@2374d36a]" name="Hero_validation" duration-ms="6231" started-at="2019-10-14T14:17:45Z" finished-at="2019-10-14T14:17:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hero_validation -->
+      </class> <!-- com.atmecs.Konakart.testscripts.konakartHero -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
