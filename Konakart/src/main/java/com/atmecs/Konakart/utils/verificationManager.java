@@ -13,52 +13,53 @@ import com.atmecs.Konakart.reports.log4j;
 
 public class verificationManager {
 	public static log4j log4jobject = new log4j();
+
 	static Logger log = Logger.getLogger("Config files");
 	static XlxsReader xlxsreader = utilityFiles.getXlsReader(Classpaths.Excel_file_one);
 
 	public void assertequals(String actual, List<WebElement> expected, String message) {
-		log.info("Performing assertion");
+		log4jobject.info("Performing assertion");
 		Assert.assertEquals(actual, expected, message);
-		log.info(message);
+		log4jobject.info(message);
 	}
 
 	public static List<String> Splittext(String element, String text) {
-		log.info("splittext performs");
+		log4jobject.info("splittext performs");
 		String data = text;
 		String[] contents = data.split(element);
 		List<String> list = new ArrayList<String>();
 		for (String arr : contents)
 			list.add(arr);
-		log.info("text splitted");
+		log4jobject.info("text splitted");
 		return list;
 
 	}
 
 	public static String dataresult(String sheetno, String sheetname, int index) {
-		log.info("Getting Value from an testdata");
+		log4jobject.info("Getting Value from an testdata");
 		String dataname = xlxsreader.getCellDataByColumnName(sheetno, sheetname, index);
-		log.info(dataname);
+		log4jobject.info(dataname);
 		return dataname;
 	}
 
 	public static String datares(String sheetno, String sheetname, int index) {
-		log.info("Getting Value from an testdata");
+		log4jobject.info("Getting Value from an testdata");
 		String dataname = xlxsreader.getCellDataByColumnName(sheetno, sheetname, index);
-		log.info(dataname);
+		log4jobject.info(dataname);
 		return dataname;
 	}
 
 	public static void assertequals(String actual, String expected, String message) {
-		log.info("Assertion Starts");
+		log4jobject.info("Assertion Starts");
 		Assert.assertEquals(actual, expected, "Assert not equals");
-		log.info(message);
-		log.info("Assertion ends");
+		log4jobject.info(message);
+		log4jobject.info("Assertion ends");
 	}
 
 	public String locateactualval(String sheet, String name, int index) {
-		log.info("Getting Value from an testdata");
+		log4jobject.info("Getting Value from an testdata");
 		String value = xlxsreader.getCellDataByColumnName(sheet, name, index);
-		log.info("Expected " + value);
+		log4jobject.info("Expected " + value);
 		return value;
 	}
 
@@ -66,7 +67,7 @@ public class verificationManager {
 		boolean result = false;
 		try {
 			Assert.assertTrue(condition);
-			log.info("PASS : " + message);
+			log4jobject.info("PASS : " + message);
 			System.out.println("PASS : " + message);
 			// Reporter.log("PASS : " + message);
 			result = true;

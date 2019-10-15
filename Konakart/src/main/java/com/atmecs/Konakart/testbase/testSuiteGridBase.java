@@ -9,6 +9,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
 import com.atmecs.Konakart.utils.ReadpropertiesFile;
+import com.atmecs.Konakart.utils.utilityFiles;
 
 /*
  * This method used to select the browser or grid and
@@ -21,7 +22,6 @@ public class testSuiteGridBase {
 	URL url;
 	String nodeurl, browser;
 	WebDriver driver;
-
 	ReadpropertiesFile propertyobject = new ReadpropertiesFile();
 	DesiredCapabilities capability = new DesiredCapabilities();
 
@@ -51,5 +51,6 @@ public class testSuiteGridBase {
 		capability.setPlatform(Platform.WINDOWS);
 		driver = new RemoteWebDriver(url, capability);
 	}
+	
 
 }

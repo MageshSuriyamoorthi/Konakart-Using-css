@@ -1139,3 +1139,1247 @@ High performance 1.2 Ghz dual-core processor with Imagination PowerVR 3D graphic
 2019-10-14 19:47:51,997  INFO [main] log4j:27 - Getting testdata
 2019-10-14 19:47:51,998  INFO [main] log4j:27 - Assertion starts
 2019-10-14 19:47:51,998  INFO [main] log4j:27 - The kitchen product specification is validated
+2019-10-15 12:36:11,292  INFO [main] log4j:27 - Getting testdata
+2019-10-15 12:36:11,307  INFO [main] log4j:27 - Getting testdata
+2019-10-15 12:36:11,311  INFO [main] log4j:27 - Getting testdata
+2019-10-15 12:36:11,311  INFO [main] log4j:27 - Getting testdata
+2019-10-15 12:36:11,315  INFO [main] log4j:27 - Getting testdata
+2019-10-15 12:36:11,315  INFO [main] log4j:27 - Getting testdata
+2019-10-15 12:36:11,319  INFO [main] log4j:27 - Getting testdata
+2019-10-15 12:36:11,319  INFO [main] log4j:27 - Getting testdata
+2019-10-15 12:36:27,438  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 12:36:34,092  INFO [main] log4j:27 - URL opens
+2019-10-15 12:36:34,139  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 12:36:34,152  INFO [main] log4j:27 - Getting testdata
+2019-10-15 12:36:34,154  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 12:36:34,679  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 12:36:34,679  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 12:36:34,713  INFO [main] log4j:27 - Getting testdata
+2019-10-15 12:36:34,812  INFO [main] log4j:27 - positive value is entered
+2019-10-15 12:36:34,812  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:36:36,455  INFO [main] log4j:27 - click is done
+2019-10-15 12:36:36,455  INFO [main] log4j:27 - Getting text from data
+2019-10-15 12:36:36,537  INFO [main] log4j:27 - Getting text from data
+2019-10-15 12:36:36,697  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 12:36:36,701  INFO [main] Config files:54 - the product were equal
+2019-10-15 12:36:36,701  INFO [main] Config files:55 - Assertion ends
+2019-10-15 12:36:36,701  INFO [main] log4j:27 - Getting testdata
+2019-10-15 12:36:36,705  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 12:36:36,873  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 12:36:36,873  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 12:36:36,905  INFO [main] log4j:27 - Getting testdata
+2019-10-15 12:36:36,977  INFO [main] log4j:27 - negative value is entered
+2019-10-15 12:36:36,977  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:36:38,049  INFO [main] log4j:27 - click is done
+2019-10-15 12:36:38,049  INFO [main] log4j:27 - Getting text from data
+2019-10-15 12:36:38,171  INFO [main] log4j:27 - Getting testdata
+2019-10-15 12:36:38,175  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 12:36:38,175  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 12:36:38,175  INFO [main] Config files:55 - Assertion ends
+2019-10-15 12:36:38,175  INFO [main] log4j:27 - Getting testdata
+2019-10-15 12:36:38,175  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 12:36:38,327  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 12:36:38,327  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 12:36:38,359  INFO [main] log4j:27 - Getting testdata
+2019-10-15 12:36:38,431  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 12:36:38,431  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:36:39,507  INFO [main] log4j:27 - click is done
+2019-10-15 12:36:39,511  INFO [main] log4j:27 - Getting text from data
+2019-10-15 12:36:39,609  INFO [main] Config files:26 - splittext performs
+2019-10-15 12:36:39,609  INFO [main] Config files:32 - text splitted
+2019-10-15 12:36:39,609  INFO [main] log4j:27 - Getting testdata
+2019-10-15 12:36:39,613  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 12:36:39,613  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 12:36:39,613  INFO [main] Config files:55 - Assertion ends
+2019-10-15 12:36:41,020  INFO [main] log4j:27 - URL opens
+2019-10-15 12:36:41,054  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 12:36:41,054  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:36:47,432  INFO [main] log4j:27 - click is done
+2019-10-15 12:36:47,447  INFO [main] log4j:27 - Got title from URL
+2019-10-15 12:36:47,448  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 12:36:47,483  INFO [main] log4j:27 - Scroll done
+2019-10-15 12:36:47,484  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 12:36:47,550  INFO [main] log4j:27 - Getting testdata
+2019-10-15 12:36:47,551  INFO [main] log4j:27 - Assertion starts
+2019-10-15 12:36:47,551  INFO [main] log4j:27 - The kindle product description is validated
+2019-10-15 12:36:47,552  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:36:47,860  INFO [main] log4j:27 - click is done
+2019-10-15 12:36:47,861  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 12:36:47,993  INFO [main] log4j:27 - Getting testdata
+2019-10-15 12:36:47,994  INFO [main] log4j:27 - Assertion starts
+2019-10-15 12:38:53,825  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 12:39:00,618  INFO [main] log4j:27 - URL opens
+2019-10-15 12:39:00,653  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 12:39:00,665  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 12:39:01,149  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 12:39:01,149  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 12:39:01,281  INFO [main] log4j:27 - positive value is entered
+2019-10-15 12:39:01,281  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:39:02,828  INFO [main] log4j:27 - click is done
+2019-10-15 12:39:02,828  INFO [main] log4j:27 - Getting text from data
+2019-10-15 12:39:02,923  INFO [main] log4j:27 - Getting text from data
+2019-10-15 12:39:03,135  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 12:39:03,139  INFO [main] Config files:54 - the product were equal
+2019-10-15 12:39:03,139  INFO [main] Config files:55 - Assertion ends
+2019-10-15 12:39:03,143  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 12:39:03,302  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 12:39:03,306  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 12:39:03,410  INFO [main] log4j:27 - negative value is entered
+2019-10-15 12:39:03,410  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:39:04,518  INFO [main] log4j:27 - click is done
+2019-10-15 12:39:04,518  INFO [main] log4j:27 - Getting text from data
+2019-10-15 12:39:04,593  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 12:39:04,593  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 12:39:04,593  INFO [main] Config files:55 - Assertion ends
+2019-10-15 12:39:04,593  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 12:39:04,745  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 12:39:04,745  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 12:39:04,837  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 12:39:04,837  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:39:05,889  INFO [main] log4j:27 - click is done
+2019-10-15 12:39:05,889  INFO [main] log4j:27 - Getting text from data
+2019-10-15 12:39:06,005  INFO [main] Config files:26 - splittext performs
+2019-10-15 12:39:06,005  INFO [main] Config files:32 - text splitted
+2019-10-15 12:39:06,005  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 12:39:06,005  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 12:39:06,009  INFO [main] Config files:55 - Assertion ends
+2019-10-15 12:39:07,361  INFO [main] log4j:27 - URL opens
+2019-10-15 12:39:07,391  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 12:39:07,395  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:39:13,121  INFO [main] log4j:27 - click is done
+2019-10-15 12:39:13,138  INFO [main] log4j:27 - Got title from URL
+2019-10-15 12:39:13,139  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 12:39:13,182  INFO [main] log4j:27 - Scroll done
+2019-10-15 12:39:13,182  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 12:39:13,256  INFO [main] log4j:27 - Assertion starts
+2019-10-15 12:39:13,257  INFO [main] log4j:27 - The kindle product description is validated
+2019-10-15 12:39:13,257  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:39:13,536  INFO [main] log4j:27 - click is done
+2019-10-15 12:39:13,536  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 12:39:13,595  INFO [main] log4j:27 - Assertion starts
+2019-10-15 12:42:46,317  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 12:42:52,245  INFO [main] log4j:27 - URL opens
+2019-10-15 12:42:52,277  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 12:42:52,288  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 12:42:52,772  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 12:42:52,773  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 12:42:52,927  INFO [main] log4j:27 - positive value is entered
+2019-10-15 12:42:52,927  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:42:54,520  INFO [main] log4j:27 - click is done
+2019-10-15 12:42:54,524  INFO [main] log4j:27 - Getting text from data
+2019-10-15 12:42:54,600  INFO [main] log4j:27 - Getting text from data
+2019-10-15 12:42:54,748  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 12:42:54,752  INFO [main] Config files:54 - the product were equal
+2019-10-15 12:42:54,752  INFO [main] Config files:55 - Assertion ends
+2019-10-15 12:42:54,756  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 12:42:54,972  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 12:42:54,972  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 12:42:55,088  INFO [main] log4j:27 - negative value is entered
+2019-10-15 12:42:55,088  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:42:56,156  INFO [main] log4j:27 - click is done
+2019-10-15 12:42:56,156  INFO [main] log4j:27 - Getting text from data
+2019-10-15 12:42:56,312  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 12:42:56,312  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 12:42:56,312  INFO [main] Config files:55 - Assertion ends
+2019-10-15 12:42:56,316  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 12:42:56,540  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 12:42:56,540  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 12:42:56,668  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 12:42:56,668  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:42:57,792  INFO [main] log4j:27 - click is done
+2019-10-15 12:42:57,792  INFO [main] log4j:27 - Getting text from data
+2019-10-15 12:42:57,890  INFO [main] Config files:26 - splittext performs
+2019-10-15 12:42:57,890  INFO [main] Config files:32 - text splitted
+2019-10-15 12:42:57,894  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 12:42:57,894  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 12:42:57,894  INFO [main] Config files:55 - Assertion ends
+2019-10-15 12:42:59,497  INFO [main] log4j:27 - URL opens
+2019-10-15 12:42:59,528  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 12:42:59,532  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:43:05,103  INFO [main] log4j:27 - click is done
+2019-10-15 12:43:05,120  INFO [main] log4j:27 - Got title from URL
+2019-10-15 12:43:05,120  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 12:43:05,160  INFO [main] log4j:27 - Scroll done
+2019-10-15 12:43:05,164  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 12:43:05,252  INFO [main] log4j:27 - Assertion starts
+2019-10-15 12:43:05,252  INFO [main] log4j:27 - The kitchen product description is validated
+2019-10-15 12:43:05,252  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:43:05,548  INFO [main] log4j:27 - click is done
+2019-10-15 12:43:05,548  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 12:43:05,620  INFO [main] log4j:27 - Assertion starts
+2019-10-15 12:43:05,620  INFO [main] log4j:27 - The kitchen product specification is validated
+2019-10-15 12:43:05,620  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:43:05,936  INFO [main] log4j:27 - click is done
+2019-10-15 12:43:05,936  INFO [main] log4j:27 - Getting list performs
+2019-10-15 12:43:05,980  INFO [main] log4j:27 - got list
+2019-10-15 12:43:05,980  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 12:43:06,092  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 12:46:29,837  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 12:46:35,148  INFO [main] log4j:27 - URL opens
+2019-10-15 12:46:35,186  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 12:46:35,197  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 12:46:35,763  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 12:46:35,763  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 12:46:35,889  INFO [main] log4j:27 - positive value is entered
+2019-10-15 12:46:35,889  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:46:37,731  INFO [main] log4j:27 - click is done
+2019-10-15 12:46:37,731  INFO [main] log4j:27 - Getting text from data
+2019-10-15 12:46:37,816  INFO [main] log4j:27 - Getting text from data
+2019-10-15 12:46:37,967  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 12:46:37,971  INFO [main] Config files:54 - the product were equal
+2019-10-15 12:46:37,971  INFO [main] Config files:55 - Assertion ends
+2019-10-15 12:46:37,971  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 12:46:38,147  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 12:46:38,151  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 12:46:38,247  INFO [main] log4j:27 - negative value is entered
+2019-10-15 12:46:38,247  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:46:39,399  INFO [main] log4j:27 - click is done
+2019-10-15 12:46:39,399  INFO [main] log4j:27 - Getting text from data
+2019-10-15 12:46:39,481  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 12:46:39,481  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 12:46:39,481  INFO [main] Config files:55 - Assertion ends
+2019-10-15 12:46:39,481  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 12:46:39,641  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 12:46:39,641  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 12:46:39,737  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 12:46:39,737  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:46:40,861  INFO [main] log4j:27 - click is done
+2019-10-15 12:46:40,861  INFO [main] log4j:27 - Getting text from data
+2019-10-15 12:46:40,963  INFO [main] Config files:26 - splittext performs
+2019-10-15 12:46:40,963  INFO [main] Config files:32 - text splitted
+2019-10-15 12:46:40,963  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 12:46:40,963  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 12:46:40,963  INFO [main] Config files:55 - Assertion ends
+2019-10-15 12:46:43,051  INFO [main] log4j:27 - URL opens
+2019-10-15 12:46:43,073  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 12:46:43,077  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:46:48,896  INFO [main] log4j:27 - click is done
+2019-10-15 12:46:48,914  INFO [main] log4j:27 - Got title from URL
+2019-10-15 12:46:48,914  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 12:46:48,957  INFO [main] log4j:27 - Scroll done
+2019-10-15 12:46:48,958  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 12:46:49,049  INFO [main] log4j:27 - Assertion starts
+2019-10-15 12:46:49,050  INFO [main] log4j:27 - The kitchen product description is validated
+2019-10-15 12:46:49,050  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:46:49,343  INFO [main] log4j:27 - click is done
+2019-10-15 12:46:49,343  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 12:46:49,392  INFO [main] log4j:27 - Assertion starts
+2019-10-15 12:46:49,393  INFO [main] log4j:27 - The kitchen product specification is validated
+2019-10-15 12:46:49,393  INFO [main] log4j:27 - Click is progressed
+2019-10-15 12:46:49,675  INFO [main] log4j:27 - click is done
+2019-10-15 12:46:49,676  INFO [main] log4j:27 - Getting list performs
+2019-10-15 12:46:49,711  INFO [main] log4j:27 - got list
+2019-10-15 12:46:49,712  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 12:46:49,803  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 13:03:25,318  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 13:03:33,263  INFO [main] log4j:27 - URL opens
+2019-10-15 13:03:33,298  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 13:03:33,310  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 13:03:33,846  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 13:03:33,850  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 13:03:34,034  INFO [main] log4j:27 - positive value is entered
+2019-10-15 13:03:34,034  INFO [main] log4j:27 - Click is progressed
+2019-10-15 13:03:35,458  INFO [main] log4j:27 - click is done
+2019-10-15 13:03:35,458  INFO [main] log4j:27 - Getting text from data
+2019-10-15 13:03:35,532  INFO [main] log4j:27 - Getting text from data
+2019-10-15 13:03:35,692  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 13:03:35,696  INFO [main] Config files:54 - the product were equal
+2019-10-15 13:03:35,696  INFO [main] Config files:55 - Assertion ends
+2019-10-15 13:03:35,696  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 13:03:35,883  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 13:03:35,883  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 13:03:35,999  INFO [main] log4j:27 - negative value is entered
+2019-10-15 13:03:35,999  INFO [main] log4j:27 - Click is progressed
+2019-10-15 13:03:37,019  INFO [main] log4j:27 - click is done
+2019-10-15 13:03:37,019  INFO [main] log4j:27 - Getting text from data
+2019-10-15 13:03:37,126  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 13:03:37,126  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 13:03:37,130  INFO [main] Config files:55 - Assertion ends
+2019-10-15 13:03:37,130  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 13:03:37,274  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 13:03:37,274  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 13:03:37,374  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 13:03:37,374  INFO [main] log4j:27 - Click is progressed
+2019-10-15 13:03:38,418  INFO [main] log4j:27 - click is done
+2019-10-15 13:03:38,418  INFO [main] log4j:27 - Getting text from data
+2019-10-15 13:03:38,567  INFO [main] Config files:26 - splittext performs
+2019-10-15 13:03:38,567  INFO [main] Config files:32 - text splitted
+2019-10-15 13:03:38,571  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 13:03:38,571  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 13:03:38,571  INFO [main] Config files:55 - Assertion ends
+2019-10-15 13:03:40,448  INFO [main] log4j:27 - URL opens
+2019-10-15 13:03:40,473  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 13:03:40,473  INFO [main] log4j:27 - Click is progressed
+2019-10-15 13:03:47,627  INFO [main] log4j:27 - click is done
+2019-10-15 13:03:47,646  INFO [main] log4j:27 - Got title from URL
+2019-10-15 13:03:47,647  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 13:03:47,686  INFO [main] log4j:27 - Scroll done
+2019-10-15 13:03:47,686  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 13:03:47,769  INFO [main] log4j:27 - Assertion starts
+2019-10-15 13:03:47,769  INFO [main] log4j:27 - The kitchen product description is validated
+2019-10-15 13:03:47,770  INFO [main] log4j:27 - Click is progressed
+2019-10-15 13:03:48,059  INFO [main] log4j:27 - click is done
+2019-10-15 13:03:48,060  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 13:03:48,128  INFO [main] log4j:27 - Assertion starts
+2019-10-15 13:03:48,128  INFO [main] log4j:27 - The kitchen product specification is validated
+2019-10-15 13:03:48,129  INFO [main] log4j:27 - Click is progressed
+2019-10-15 13:03:48,425  INFO [main] log4j:27 - click is done
+2019-10-15 13:03:48,425  INFO [main] log4j:27 - Getting list performs
+2019-10-15 13:03:48,457  INFO [main] log4j:27 - got list
+2019-10-15 13:03:48,458  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 13:03:48,558  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 13:08:55,164  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 13:09:00,641  INFO [main] log4j:27 - URL opens
+2019-10-15 13:09:00,676  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 13:09:00,687  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 13:09:01,267  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 13:09:01,267  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 13:09:01,398  INFO [main] log4j:27 - positive value is entered
+2019-10-15 13:09:01,398  INFO [main] log4j:27 - Click is progressed
+2019-10-15 13:09:02,765  INFO [main] log4j:27 - click is done
+2019-10-15 13:09:02,765  INFO [main] log4j:27 - Getting text from data
+2019-10-15 13:09:02,843  INFO [main] log4j:27 - Getting text from data
+2019-10-15 13:09:03,003  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 13:09:03,007  INFO [main] Config files:54 - the product were equal
+2019-10-15 13:09:03,007  INFO [main] Config files:55 - Assertion ends
+2019-10-15 13:09:03,011  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 13:09:03,183  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 13:09:03,183  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 13:09:03,283  INFO [main] log4j:27 - negative value is entered
+2019-10-15 13:09:03,283  INFO [main] log4j:27 - Click is progressed
+2019-10-15 13:09:04,399  INFO [main] log4j:27 - click is done
+2019-10-15 13:09:04,399  INFO [main] log4j:27 - Getting text from data
+2019-10-15 13:09:04,506  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 13:09:04,510  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 13:09:04,510  INFO [main] Config files:55 - Assertion ends
+2019-10-15 13:09:04,510  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 13:09:04,682  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 13:09:04,682  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 13:09:04,778  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 13:09:04,778  INFO [main] log4j:27 - Click is progressed
+2019-10-15 13:09:05,910  INFO [main] log4j:27 - click is done
+2019-10-15 13:09:05,910  INFO [main] log4j:27 - Getting text from data
+2019-10-15 13:09:06,105  INFO [main] Config files:26 - splittext performs
+2019-10-15 13:09:06,105  INFO [main] Config files:32 - text splitted
+2019-10-15 13:09:06,109  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 13:09:06,109  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 13:09:06,109  INFO [main] Config files:55 - Assertion ends
+2019-10-15 13:09:08,670  INFO [main] log4j:27 - URL opens
+2019-10-15 13:09:08,699  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 13:09:08,699  INFO [main] log4j:27 - Click is progressed
+2019-10-15 13:09:16,996  INFO [main] log4j:27 - click is done
+2019-10-15 13:09:17,018  INFO [main] log4j:27 - Got title from URL
+2019-10-15 13:09:17,018  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 13:09:17,054  INFO [main] log4j:27 - Scroll done
+2019-10-15 13:09:17,054  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 13:09:17,126  INFO [main] log4j:27 - Assertion starts
+2019-10-15 13:09:17,126  INFO [main] log4j:27 - The kindle product description is validated
+2019-10-15 13:09:17,126  INFO [main] log4j:27 - Click is progressed
+2019-10-15 13:09:17,422  INFO [main] log4j:27 - click is done
+2019-10-15 13:09:17,422  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 13:09:17,478  INFO [main] log4j:27 - Assertion starts
+2019-10-15 13:16:36,140  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 13:16:42,924  INFO [main] log4j:27 - URL opens
+2019-10-15 13:16:42,966  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 13:16:42,979  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 13:16:43,469  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 13:16:43,469  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 13:16:43,603  INFO [main] log4j:27 - positive value is entered
+2019-10-15 13:16:43,603  INFO [main] log4j:27 - Click is progressed
+2019-10-15 13:16:45,996  INFO [main] log4j:27 - click is done
+2019-10-15 13:16:45,996  INFO [main] log4j:27 - Getting text from data
+2019-10-15 13:16:46,077  INFO [main] log4j:27 - Getting text from data
+2019-10-15 13:16:46,265  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 13:16:46,269  INFO [main] Config files:54 - the product were equal
+2019-10-15 13:16:46,269  INFO [main] Config files:55 - Assertion ends
+2019-10-15 13:16:46,269  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 13:16:46,457  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 13:16:46,457  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 13:16:46,581  INFO [main] log4j:27 - negative value is entered
+2019-10-15 13:16:46,585  INFO [main] log4j:27 - Click is progressed
+2019-10-15 13:16:47,645  INFO [main] log4j:27 - click is done
+2019-10-15 13:16:47,645  INFO [main] log4j:27 - Getting text from data
+2019-10-15 13:16:47,761  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 13:16:47,765  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 13:16:47,765  INFO [main] Config files:55 - Assertion ends
+2019-10-15 13:16:47,765  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 13:16:47,941  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 13:16:47,945  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 13:16:48,045  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 13:16:48,045  INFO [main] log4j:27 - Click is progressed
+2019-10-15 13:16:49,097  INFO [main] log4j:27 - click is done
+2019-10-15 13:16:49,097  INFO [main] log4j:27 - Getting text from data
+2019-10-15 13:16:49,251  INFO [main] Config files:26 - splittext performs
+2019-10-15 13:16:49,251  INFO [main] Config files:32 - text splitted
+2019-10-15 13:16:49,251  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 13:16:49,251  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 13:16:49,251  INFO [main] Config files:55 - Assertion ends
+2019-10-15 13:16:50,736  INFO [main] log4j:27 - URL opens
+2019-10-15 13:16:50,771  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 13:16:50,773  INFO [main] log4j:27 - Click is progressed
+2019-10-15 13:16:56,207  INFO [main] log4j:27 - click is done
+2019-10-15 13:16:56,227  INFO [main] log4j:27 - Got title from URL
+2019-10-15 13:16:56,227  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 13:16:56,268  INFO [main] log4j:27 - Scroll done
+2019-10-15 13:16:56,269  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 13:16:56,378  INFO [main] log4j:27 - Assertion starts
+2019-10-15 13:16:56,379  INFO [main] log4j:27 - The kindle product description is validated
+2019-10-15 13:16:56,379  INFO [main] log4j:27 - Click is progressed
+2019-10-15 13:16:56,667  INFO [main] log4j:27 - click is done
+2019-10-15 13:16:56,667  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 13:16:56,721  INFO [main] log4j:27 - Assertion starts
+2019-10-15 13:16:56,721  INFO [main] log4j:27 - The kindle product specification is validated
+2019-10-15 13:16:56,722  INFO [main] log4j:27 - Click is progressed
+2019-10-15 13:16:57,009  INFO [main] log4j:27 - click is done
+2019-10-15 13:16:57,010  INFO [main] log4j:27 - Getting list performs
+2019-10-15 13:16:57,044  INFO [main] log4j:27 - got list
+2019-10-15 13:16:57,045  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 13:16:57,136  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:05:06,530  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 14:05:11,938  INFO [main] log4j:27 - URL opens
+2019-10-15 14:05:11,981  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 14:05:11,995  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:05:12,552  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:05:12,553  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:05:12,692  INFO [main] log4j:27 - positive value is entered
+2019-10-15 14:05:12,693  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:05:14,108  INFO [main] log4j:27 - click is done
+2019-10-15 14:05:14,108  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:05:14,187  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:05:14,371  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:05:14,375  INFO [main] Config files:54 - the product were equal
+2019-10-15 14:05:14,375  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:05:14,383  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:05:14,555  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:05:14,555  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:05:14,655  INFO [main] log4j:27 - negative value is entered
+2019-10-15 14:05:14,655  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:05:15,840  INFO [main] log4j:27 - click is done
+2019-10-15 14:05:15,840  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:05:15,916  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:05:15,916  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 14:05:15,916  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:05:15,916  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:05:16,079  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:05:16,079  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:05:16,251  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 14:05:16,251  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:05:17,335  INFO [main] log4j:27 - click is done
+2019-10-15 14:05:17,335  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:05:17,507  INFO [main] Config files:26 - splittext performs
+2019-10-15 14:05:17,511  INFO [main] Config files:32 - text splitted
+2019-10-15 14:05:17,511  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:05:17,511  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 14:05:17,511  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:05:18,847  INFO [main] log4j:27 - URL opens
+2019-10-15 14:05:18,879  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 14:05:18,883  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:05:26,053  INFO [main] log4j:27 - click is done
+2019-10-15 14:05:26,072  INFO [main] log4j:27 - Got title from URL
+2019-10-15 14:05:26,076  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 14:05:26,124  INFO [main] log4j:27 - Scroll done
+2019-10-15 14:05:26,128  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:05:26,216  INFO [main] log4j:27 - Assertion starts
+2019-10-15 14:05:26,216  INFO [main] log4j:27 - The kindle product description is validated
+2019-10-15 14:05:26,216  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:05:26,532  INFO [main] log4j:27 - click is done
+2019-10-15 14:05:26,532  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:05:26,600  INFO [main] log4j:27 - Assertion starts
+2019-10-15 14:05:26,600  INFO [main] log4j:27 - The kindle product specification is validated
+2019-10-15 14:05:26,600  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:05:26,891  INFO [main] log4j:27 - click is done
+2019-10-15 14:05:26,891  INFO [main] log4j:27 - Getting list performs
+2019-10-15 14:05:26,927  INFO [main] log4j:27 - got list
+2019-10-15 14:05:26,927  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:05:27,015  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:20:00,624  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 14:20:06,128  INFO [main] log4j:27 - URL opens
+2019-10-15 14:20:10,189  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 14:20:10,198  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:20:10,494  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:20:10,494  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:20:10,822  INFO [main] log4j:27 - positive value is entered
+2019-10-15 14:20:10,826  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:20:12,610  INFO [main] log4j:27 - click is done
+2019-10-15 14:20:12,610  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:20:12,812  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:20:12,996  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:20:13,000  INFO [main] Config files:54 - the product were equal
+2019-10-15 14:20:13,000  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:20:13,000  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:20:13,219  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:20:13,219  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:20:13,387  INFO [main] log4j:27 - negative value is entered
+2019-10-15 14:20:13,387  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:20:14,259  INFO [main] log4j:27 - click is done
+2019-10-15 14:20:14,259  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:20:14,346  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:20:14,346  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 14:20:14,350  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:20:14,350  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:20:14,542  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:20:14,542  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:20:14,686  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 14:20:14,686  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:20:15,571  INFO [main] log4j:27 - click is done
+2019-10-15 14:20:15,571  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:20:15,661  INFO [main] Config files:26 - splittext performs
+2019-10-15 14:20:15,661  INFO [main] Config files:32 - text splitted
+2019-10-15 14:20:15,661  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:20:15,661  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 14:20:15,661  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:20:17,572  INFO [main] log4j:27 - URL opens
+2019-10-15 14:20:17,598  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 14:20:17,602  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:20:21,751  INFO [main] log4j:27 - click is done
+2019-10-15 14:20:21,767  INFO [main] log4j:27 - Got title from URL
+2019-10-15 14:20:21,771  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 14:20:21,807  INFO [main] log4j:27 - Scroll done
+2019-10-15 14:20:21,807  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:20:21,891  INFO [main] log4j:27 - Assertion starts
+2019-10-15 14:20:21,895  INFO [main] log4j:27 - The kitchen product description is validated
+2019-10-15 14:20:21,895  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:20:22,059  INFO [main] log4j:27 - click is done
+2019-10-15 14:20:22,059  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:20:22,135  INFO [main] log4j:27 - Assertion starts
+2019-10-15 14:20:22,135  INFO [main] log4j:27 - The kitchen product specification is validated
+2019-10-15 14:20:22,135  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:20:22,263  INFO [main] log4j:27 - click is done
+2019-10-15 14:20:22,263  INFO [main] log4j:27 - Getting list performs
+2019-10-15 14:20:22,307  INFO [main] log4j:27 - got list
+2019-10-15 14:20:22,307  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:20:22,391  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:21:09,006  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 14:21:13,922  INFO [main] log4j:27 - URL opens
+2019-10-15 14:21:18,121  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 14:21:18,135  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:21:18,487  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:21:18,487  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:21:18,775  INFO [main] log4j:27 - positive value is entered
+2019-10-15 14:21:18,775  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:21:20,043  INFO [main] log4j:27 - click is done
+2019-10-15 14:21:20,043  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:21:20,137  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:21:20,301  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:21:20,305  INFO [main] Config files:54 - the product were equal
+2019-10-15 14:21:20,305  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:21:20,305  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:21:20,520  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:21:20,524  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:21:20,712  INFO [main] log4j:27 - negative value is entered
+2019-10-15 14:21:20,712  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:21:21,584  INFO [main] log4j:27 - click is done
+2019-10-15 14:21:21,584  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:21:21,658  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:21:21,658  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 14:21:21,658  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:21:21,658  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:21:21,834  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:21:21,834  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:21:21,982  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 14:21:21,982  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:21:22,898  INFO [main] log4j:27 - click is done
+2019-10-15 14:21:22,898  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:21:22,974  INFO [main] Config files:26 - splittext performs
+2019-10-15 14:21:22,974  INFO [main] Config files:32 - text splitted
+2019-10-15 14:21:22,978  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:21:22,978  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 14:21:22,978  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:21:24,210  INFO [main] log4j:27 - URL opens
+2019-10-15 14:21:24,252  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 14:21:24,252  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:21:28,420  INFO [main] log4j:27 - click is done
+2019-10-15 14:21:28,436  INFO [main] log4j:27 - Got title from URL
+2019-10-15 14:21:28,436  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 14:21:28,484  INFO [main] log4j:27 - Scroll done
+2019-10-15 14:21:28,484  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:21:28,572  INFO [main] log4j:27 - Assertion starts
+2019-10-15 14:21:28,572  INFO [main] log4j:27 - The kitchen product description is validated
+2019-10-15 14:21:28,572  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:21:28,692  INFO [main] log4j:27 - click is done
+2019-10-15 14:21:28,692  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:21:28,768  INFO [main] log4j:27 - Assertion starts
+2019-10-15 14:21:28,768  INFO [main] log4j:27 - The kitchen product specification is validated
+2019-10-15 14:21:28,768  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:21:28,903  INFO [main] log4j:27 - click is done
+2019-10-15 14:21:28,903  INFO [main] log4j:27 - Getting list performs
+2019-10-15 14:21:28,947  INFO [main] log4j:27 - got list
+2019-10-15 14:21:28,947  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:21:29,035  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:34:49,864  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 14:35:02,088  INFO [main] log4j:27 - URL opens
+2019-10-15 14:35:06,275  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 14:35:06,282  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:35:06,642  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:35:06,642  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:35:06,926  INFO [main] log4j:27 - positive value is entered
+2019-10-15 14:35:06,930  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:35:12,706  INFO [main] log4j:27 - click is done
+2019-10-15 14:35:12,706  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:35:12,786  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:35:12,946  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:35:12,946  INFO [main] Config files:54 - the product were equal
+2019-10-15 14:35:12,950  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:35:12,950  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:35:13,166  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:35:13,170  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:35:13,326  INFO [main] log4j:27 - negative value is entered
+2019-10-15 14:35:13,326  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:35:15,511  INFO [main] log4j:27 - click is done
+2019-10-15 14:35:15,511  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:35:15,595  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:35:15,595  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 14:35:15,595  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:35:15,595  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:35:15,775  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:35:15,775  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:35:15,935  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 14:35:15,935  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:35:19,709  INFO [main] log4j:27 - click is done
+2019-10-15 14:35:19,709  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:35:19,805  INFO [main] Config files:26 - splittext performs
+2019-10-15 14:35:19,805  INFO [main] Config files:32 - text splitted
+2019-10-15 14:35:19,805  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:35:19,805  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 14:35:19,805  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:35:27,361  INFO [main] log4j:27 - URL opens
+2019-10-15 14:35:27,436  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 14:35:27,440  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:35:32,957  INFO [main] log4j:27 - click is done
+2019-10-15 14:35:32,972  INFO [main] log4j:27 - Got title from URL
+2019-10-15 14:35:32,972  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 14:35:33,008  INFO [main] log4j:27 - Scroll done
+2019-10-15 14:35:33,008  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:35:33,088  INFO [main] log4j:27 - Assertion starts
+2019-10-15 14:35:33,088  INFO [main] log4j:27 - The kindle product description is validated
+2019-10-15 14:35:33,088  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:35:33,208  INFO [main] log4j:27 - click is done
+2019-10-15 14:35:33,208  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:35:33,280  INFO [main] log4j:27 - Assertion starts
+2019-10-15 14:35:33,280  INFO [main] log4j:27 - The kindle product specification is validated
+2019-10-15 14:35:33,280  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:35:33,412  INFO [main] log4j:27 - click is done
+2019-10-15 14:35:33,412  INFO [main] log4j:27 - Getting list performs
+2019-10-15 14:35:33,456  INFO [main] log4j:27 - got list
+2019-10-15 14:35:33,460  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:35:33,536  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:40:55,531  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 14:41:01,227  INFO [main] log4j:27 - URL opens
+2019-10-15 14:41:05,453  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 14:41:05,464  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:41:05,812  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:41:05,816  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:41:06,092  INFO [main] log4j:27 - positive value is entered
+2019-10-15 14:41:06,092  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:41:08,152  INFO [main] log4j:27 - click is done
+2019-10-15 14:41:08,152  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:41:08,231  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:41:08,419  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:41:08,423  INFO [main] Config files:54 - the product were equal
+2019-10-15 14:41:08,423  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:41:08,423  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:41:08,615  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:41:08,615  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:41:08,778  INFO [main] log4j:27 - negative value is entered
+2019-10-15 14:41:08,778  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:41:09,902  INFO [main] log4j:27 - click is done
+2019-10-15 14:41:09,902  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:41:09,997  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:41:09,997  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 14:41:09,997  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:41:10,001  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:41:10,189  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:41:10,189  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:41:10,333  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 14:41:10,333  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:41:11,437  INFO [main] log4j:27 - click is done
+2019-10-15 14:41:11,437  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:41:11,524  INFO [main] Config files:26 - splittext performs
+2019-10-15 14:41:11,528  INFO [main] Config files:32 - text splitted
+2019-10-15 14:41:11,528  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:41:11,528  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 14:41:11,528  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:41:14,167  INFO [main] log4j:27 - URL opens
+2019-10-15 14:41:14,198  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 14:41:14,202  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:41:19,578  INFO [main] log4j:27 - click is done
+2019-10-15 14:41:19,599  INFO [main] log4j:27 - Got title from URL
+2019-10-15 14:41:19,599  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 14:41:19,647  INFO [main] log4j:27 - Scroll done
+2019-10-15 14:41:19,647  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:41:19,751  INFO [main] log4j:27 - Assertion starts
+2019-10-15 14:41:19,751  INFO [main] log4j:27 - The kitchen product description is validated
+2019-10-15 14:41:19,751  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:41:19,887  INFO [main] log4j:27 - click is done
+2019-10-15 14:41:19,887  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:41:19,963  INFO [main] log4j:27 - Assertion starts
+2019-10-15 14:41:19,963  INFO [main] log4j:27 - The kitchen product specification is validated
+2019-10-15 14:41:19,963  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:41:20,103  INFO [main] log4j:27 - click is done
+2019-10-15 14:41:20,103  INFO [main] log4j:27 - Getting list performs
+2019-10-15 14:41:20,147  INFO [main] log4j:27 - got list
+2019-10-15 14:41:20,147  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:41:20,231  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:45:27,267  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 14:45:34,143  INFO [main] log4j:27 - URL opens
+2019-10-15 14:45:38,331  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 14:45:38,349  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:45:38,705  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:45:38,705  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:45:39,021  INFO [main] log4j:27 - positive value is entered
+2019-10-15 14:45:39,021  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:45:40,484  INFO [main] log4j:27 - click is done
+2019-10-15 14:45:40,484  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:45:40,565  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:45:40,765  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:45:40,765  INFO [main] Config files:54 - the product were equal
+2019-10-15 14:45:40,769  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:45:40,769  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:45:40,961  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:45:40,965  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:45:41,129  INFO [main] log4j:27 - negative value is entered
+2019-10-15 14:45:41,129  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:45:42,237  INFO [main] log4j:27 - click is done
+2019-10-15 14:45:42,237  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:45:42,339  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:45:42,339  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 14:45:42,343  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:45:42,343  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:45:42,527  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:45:42,527  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:45:42,691  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 14:45:42,691  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:45:43,807  INFO [main] log4j:27 - click is done
+2019-10-15 14:45:43,807  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:45:43,906  INFO [main] Config files:26 - splittext performs
+2019-10-15 14:45:43,906  INFO [main] Config files:32 - text splitted
+2019-10-15 14:45:43,910  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:45:43,910  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 14:45:43,910  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:45:46,373  INFO [main] log4j:27 - URL opens
+2019-10-15 14:45:46,404  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 14:45:46,408  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:45:55,070  INFO [main] log4j:27 - click is done
+2019-10-15 14:45:55,092  INFO [main] log4j:27 - Got title from URL
+2019-10-15 14:45:55,092  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 14:45:55,136  INFO [main] log4j:27 - Scroll done
+2019-10-15 14:45:55,136  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:45:55,220  INFO [main] log4j:27 - Assertion starts
+2019-10-15 14:45:55,224  INFO [main] log4j:27 - The kitchen product description is validated
+2019-10-15 14:45:55,224  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:45:55,380  INFO [main] log4j:27 - click is done
+2019-10-15 14:45:55,380  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:45:55,468  INFO [main] log4j:27 - Assertion starts
+2019-10-15 14:45:55,468  INFO [main] log4j:27 - The kitchen product specification is validated
+2019-10-15 14:45:55,468  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:45:55,640  INFO [main] log4j:27 - click is done
+2019-10-15 14:45:55,640  INFO [main] log4j:27 - Getting list performs
+2019-10-15 14:45:55,692  INFO [main] log4j:27 - got list
+2019-10-15 14:45:55,692  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:45:55,776  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:49:07,507  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 14:49:17,385  INFO [main] log4j:27 - URL opens
+2019-10-15 14:49:21,577  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 14:49:21,591  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:49:21,935  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:49:21,935  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:49:22,199  INFO [main] log4j:27 - positive value is entered
+2019-10-15 14:49:22,199  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:49:26,126  INFO [main] log4j:27 - click is done
+2019-10-15 14:49:26,126  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:49:26,209  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:49:26,381  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:49:26,381  INFO [main] Config files:54 - the product were equal
+2019-10-15 14:49:26,385  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:49:26,385  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:49:26,569  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:49:26,573  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:49:26,737  INFO [main] log4j:27 - negative value is entered
+2019-10-15 14:49:26,737  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:49:31,490  INFO [main] log4j:27 - click is done
+2019-10-15 14:49:31,490  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:49:31,582  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:49:31,582  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 14:49:31,582  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:49:31,582  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:49:31,754  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:49:31,754  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:49:31,894  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 14:49:31,894  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:49:32,910  INFO [main] log4j:27 - click is done
+2019-10-15 14:49:32,910  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:49:32,998  INFO [main] Config files:26 - splittext performs
+2019-10-15 14:49:33,002  INFO [main] Config files:32 - text splitted
+2019-10-15 14:49:33,002  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:49:33,002  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 14:49:33,002  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:49:35,189  INFO [main] log4j:27 - URL opens
+2019-10-15 14:49:35,222  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 14:49:35,226  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:49:39,673  INFO [main] log4j:27 - click is done
+2019-10-15 14:49:39,693  INFO [main] log4j:27 - Got title from URL
+2019-10-15 14:49:39,693  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 14:49:39,744  INFO [main] log4j:27 - Scroll done
+2019-10-15 14:49:39,748  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:49:39,828  INFO [main] log4j:27 - Assertion starts
+2019-10-15 14:49:39,828  INFO [main] log4j:27 - The kindle product description is validated
+2019-10-15 14:49:39,828  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:49:39,952  INFO [main] log4j:27 - click is done
+2019-10-15 14:49:39,952  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:49:40,024  INFO [main] log4j:27 - Assertion starts
+2019-10-15 14:49:40,028  INFO [main] log4j:27 - The kindle product specification is validated
+2019-10-15 14:49:40,028  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:49:40,144  INFO [main] log4j:27 - click is done
+2019-10-15 14:49:40,144  INFO [main] log4j:27 - Getting list performs
+2019-10-15 14:49:40,192  INFO [main] log4j:27 - got list
+2019-10-15 14:49:40,192  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:49:40,272  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:53:17,592  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 14:53:23,891  INFO [main] log4j:27 - URL opens
+2019-10-15 14:53:28,088  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 14:53:28,102  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:53:28,418  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:53:28,422  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:53:28,694  INFO [main] log4j:27 - positive value is entered
+2019-10-15 14:53:28,694  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:53:30,920  INFO [main] log4j:27 - click is done
+2019-10-15 14:53:30,920  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:53:31,003  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:53:31,155  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:53:31,155  INFO [main] Config files:54 - the product were equal
+2019-10-15 14:53:31,159  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:53:31,159  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:53:31,367  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:53:31,371  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:53:31,539  INFO [main] log4j:27 - negative value is entered
+2019-10-15 14:53:31,539  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:53:32,444  INFO [main] log4j:27 - click is done
+2019-10-15 14:53:32,444  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:53:32,524  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:53:32,528  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 14:53:32,528  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:53:32,528  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 14:53:32,724  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 14:53:32,724  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 14:53:32,876  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 14:53:32,876  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:53:33,706  INFO [main] log4j:27 - click is done
+2019-10-15 14:53:33,710  INFO [main] log4j:27 - Getting text from data
+2019-10-15 14:53:33,786  INFO [main] Config files:26 - splittext performs
+2019-10-15 14:53:33,786  INFO [main] Config files:32 - text splitted
+2019-10-15 14:53:33,790  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 14:53:33,790  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 14:53:33,790  INFO [main] Config files:55 - Assertion ends
+2019-10-15 14:53:36,192  INFO [main] log4j:27 - URL opens
+2019-10-15 14:53:36,243  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 14:53:36,247  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:53:40,350  INFO [main] log4j:27 - click is done
+2019-10-15 14:53:40,380  INFO [main] log4j:27 - Got title from URL
+2019-10-15 14:53:40,384  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 14:53:40,444  INFO [main] log4j:27 - Scroll done
+2019-10-15 14:53:40,448  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:53:40,548  INFO [main] log4j:27 - Assertion starts
+2019-10-15 14:53:40,548  INFO [main] log4j:27 - The kindle product description is validated
+2019-10-15 14:53:40,548  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:53:40,676  INFO [main] log4j:27 - click is done
+2019-10-15 14:53:40,676  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:53:40,748  INFO [main] log4j:27 - Assertion starts
+2019-10-15 14:53:40,748  INFO [main] log4j:27 - The kindle product specification is validated
+2019-10-15 14:53:40,748  INFO [main] log4j:27 - Click is progressed
+2019-10-15 14:53:40,896  INFO [main] log4j:27 - click is done
+2019-10-15 14:53:40,896  INFO [main] log4j:27 - Getting list performs
+2019-10-15 14:53:40,944  INFO [main] log4j:27 - got list
+2019-10-15 14:53:40,944  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 14:53:41,020  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:10:37,196  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 15:10:46,200  INFO [main] log4j:27 - URL opens
+2019-10-15 15:10:50,410  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 15:10:50,424  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:10:50,727  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:10:50,731  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 15:10:50,967  INFO [main] log4j:27 - positive value is entered
+2019-10-15 15:10:50,967  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:10:52,599  INFO [main] log4j:27 - click is done
+2019-10-15 15:10:52,599  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:10:52,676  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:10:52,864  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:10:52,868  INFO [main] Config files:54 - the product were equal
+2019-10-15 15:10:52,868  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:10:52,872  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:10:53,064  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:10:53,064  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 15:10:53,244  INFO [main] log4j:27 - negative value is entered
+2019-10-15 15:10:53,244  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:10:54,124  INFO [main] log4j:27 - click is done
+2019-10-15 15:10:54,124  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:10:54,207  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:10:54,207  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 15:10:54,207  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:10:54,207  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:10:54,383  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:10:54,383  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 15:10:54,531  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 15:10:54,531  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:10:55,339  INFO [main] log4j:27 - click is done
+2019-10-15 15:10:55,339  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:10:55,430  INFO [main] Config files:26 - splittext performs
+2019-10-15 15:10:55,430  INFO [main] Config files:32 - text splitted
+2019-10-15 15:10:55,430  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:10:55,430  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 15:10:55,434  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:10:56,485  INFO [main] log4j:27 - URL opens
+2019-10-15 15:10:56,515  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 15:10:56,515  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:11:02,298  INFO [main] log4j:27 - click is done
+2019-10-15 15:11:02,329  INFO [main] log4j:27 - Got title from URL
+2019-10-15 15:11:02,329  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 15:11:02,397  INFO [main] log4j:27 - Scroll done
+2019-10-15 15:11:02,397  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:11:02,489  INFO [main] log4j:27 - Assertion starts
+2019-10-15 15:11:02,489  INFO [main] log4j:27 - The kitchen product description is validated
+2019-10-15 15:11:02,489  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:11:02,629  INFO [main] log4j:27 - click is done
+2019-10-15 15:11:02,629  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:11:02,697  INFO [main] log4j:27 - Assertion starts
+2019-10-15 15:11:02,701  INFO [main] log4j:27 - The kitchen product specification is validated
+2019-10-15 15:11:02,701  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:11:02,825  INFO [main] log4j:27 - click is done
+2019-10-15 15:11:02,829  INFO [main] log4j:27 - Getting list performs
+2019-10-15 15:11:02,869  INFO [main] log4j:27 - got list
+2019-10-15 15:11:02,869  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:13:09,416  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 15:13:16,242  INFO [main] log4j:27 - URL opens
+2019-10-15 15:13:20,449  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 15:13:20,464  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:13:20,776  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:13:20,780  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 15:13:21,036  INFO [main] log4j:27 - positive value is entered
+2019-10-15 15:13:21,036  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:13:22,539  INFO [main] log4j:27 - click is done
+2019-10-15 15:13:22,539  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:13:22,614  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:13:22,818  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:13:22,818  INFO [main] Config files:54 - the product were equal
+2019-10-15 15:13:22,822  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:13:22,822  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:13:23,034  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:13:23,038  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 15:13:23,202  INFO [main] log4j:27 - negative value is entered
+2019-10-15 15:13:23,202  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:13:24,077  INFO [main] log4j:27 - click is done
+2019-10-15 15:13:24,077  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:13:24,178  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:13:24,178  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 15:13:24,178  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:13:24,178  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:13:24,382  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:13:24,386  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 15:13:24,550  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 15:13:24,550  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:13:25,418  INFO [main] log4j:27 - click is done
+2019-10-15 15:13:25,422  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:13:25,518  INFO [main] Config files:26 - splittext performs
+2019-10-15 15:13:25,522  INFO [main] Config files:32 - text splitted
+2019-10-15 15:13:25,522  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:13:25,522  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 15:13:25,522  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:13:26,598  INFO [main] log4j:27 - URL opens
+2019-10-15 15:13:26,645  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 15:13:26,645  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:13:33,932  INFO [main] log4j:27 - click is done
+2019-10-15 15:13:33,951  INFO [main] log4j:27 - Got title from URL
+2019-10-15 15:13:33,951  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 15:13:33,995  INFO [main] log4j:27 - Scroll done
+2019-10-15 15:13:33,995  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:13:34,071  INFO [main] log4j:27 - Assertion starts
+2019-10-15 15:13:34,071  INFO [main] log4j:27 - The kindle product description is validated
+2019-10-15 15:13:34,071  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:13:34,207  INFO [main] log4j:27 - click is done
+2019-10-15 15:13:34,207  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:13:34,287  INFO [main] log4j:27 - Assertion starts
+2019-10-15 15:13:34,287  INFO [main] log4j:27 - The kindle product specification is validated
+2019-10-15 15:13:34,287  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:13:34,419  INFO [main] log4j:27 - click is done
+2019-10-15 15:13:34,419  INFO [main] log4j:27 - Getting list performs
+2019-10-15 15:13:34,463  INFO [main] log4j:27 - got list
+2019-10-15 15:13:34,463  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:16:28,405  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 15:16:34,459  INFO [main] log4j:27 - URL opens
+2019-10-15 15:16:38,696  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 15:16:38,714  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:16:39,074  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:16:39,074  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 15:16:39,418  INFO [main] log4j:27 - positive value is entered
+2019-10-15 15:16:39,418  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:16:42,098  INFO [main] log4j:27 - click is done
+2019-10-15 15:16:42,102  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:16:42,179  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:16:42,343  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:16:42,347  INFO [main] Config files:54 - the product were equal
+2019-10-15 15:16:42,347  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:16:42,347  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:16:42,575  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:16:42,575  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 15:16:42,767  INFO [main] log4j:27 - negative value is entered
+2019-10-15 15:16:42,767  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:16:43,703  INFO [main] log4j:27 - click is done
+2019-10-15 15:16:43,707  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:16:43,796  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:16:43,796  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 15:16:43,796  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:16:43,796  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:16:44,004  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:16:44,004  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 15:16:44,159  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 15:16:44,159  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:16:46,291  INFO [main] log4j:27 - click is done
+2019-10-15 15:16:46,291  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:16:46,390  INFO [main] Config files:26 - splittext performs
+2019-10-15 15:16:46,390  INFO [main] Config files:32 - text splitted
+2019-10-15 15:16:46,394  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:16:46,394  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 15:16:46,394  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:16:48,602  INFO [main] log4j:27 - URL opens
+2019-10-15 15:16:48,632  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 15:16:48,632  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:16:56,091  INFO [main] log4j:27 - click is done
+2019-10-15 15:16:56,110  INFO [main] log4j:27 - Got title from URL
+2019-10-15 15:16:56,110  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 15:16:56,154  INFO [main] log4j:27 - Scroll done
+2019-10-15 15:16:56,154  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:16:56,234  INFO [main] log4j:27 - Assertion starts
+2019-10-15 15:16:56,234  INFO [main] log4j:27 - The kitchen product description is validated
+2019-10-15 15:16:56,234  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:16:56,374  INFO [main] log4j:27 - click is done
+2019-10-15 15:16:56,374  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:16:56,454  INFO [main] log4j:27 - Assertion starts
+2019-10-15 15:16:56,454  INFO [main] log4j:27 - The kitchen product specification is validated
+2019-10-15 15:16:56,454  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:16:56,642  INFO [main] log4j:27 - click is done
+2019-10-15 15:16:56,642  INFO [main] log4j:27 - Getting list performs
+2019-10-15 15:16:56,694  INFO [main] log4j:27 - got list
+2019-10-15 15:16:56,694  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:16:56,786  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:19:21,445  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 15:19:34,377  INFO [main] log4j:27 - URL opens
+2019-10-15 15:19:38,723  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 15:19:38,732  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:19:39,044  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:19:39,048  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 15:19:39,316  INFO [main] log4j:27 - positive value is entered
+2019-10-15 15:19:39,316  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:19:43,183  INFO [main] log4j:27 - click is done
+2019-10-15 15:19:43,183  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:19:43,262  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:19:43,422  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:19:43,426  INFO [main] Config files:54 - the product were equal
+2019-10-15 15:19:43,426  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:19:43,426  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:19:43,662  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:19:43,662  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 15:19:43,842  INFO [main] log4j:27 - negative value is entered
+2019-10-15 15:19:43,842  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:19:46,893  INFO [main] log4j:27 - click is done
+2019-10-15 15:19:46,893  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:19:46,984  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:19:46,984  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 15:19:46,984  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:19:46,984  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:19:47,180  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:19:47,180  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 15:19:47,332  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 15:19:47,336  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:19:49,488  INFO [main] log4j:27 - click is done
+2019-10-15 15:19:49,488  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:19:49,585  INFO [main] Config files:26 - splittext performs
+2019-10-15 15:19:49,585  INFO [main] Config files:32 - text splitted
+2019-10-15 15:19:49,589  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:19:49,589  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 15:19:49,589  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:19:54,505  INFO [main] log4j:27 - URL opens
+2019-10-15 15:19:54,547  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 15:19:54,555  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:19:59,599  INFO [main] log4j:27 - click is done
+2019-10-15 15:19:59,620  INFO [main] log4j:27 - Got title from URL
+2019-10-15 15:19:59,624  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 15:19:59,676  INFO [main] log4j:27 - Scroll done
+2019-10-15 15:19:59,676  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:19:59,784  INFO [main] log4j:27 - Assertion starts
+2019-10-15 15:19:59,784  INFO [main] log4j:27 - The kindle product description is validated
+2019-10-15 15:19:59,784  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:19:59,936  INFO [main] log4j:27 - click is done
+2019-10-15 15:19:59,936  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:20:00,052  INFO [main] log4j:27 - Assertion starts
+2019-10-15 15:20:00,052  INFO [main] log4j:27 - The kindle product specification is validated
+2019-10-15 15:20:00,052  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:20:00,240  INFO [main] log4j:27 - click is done
+2019-10-15 15:20:00,240  INFO [main] log4j:27 - Getting list performs
+2019-10-15 15:20:00,300  INFO [main] log4j:27 - got list
+2019-10-15 15:20:00,300  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:20:00,416  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:20:00,416  INFO [main] Config files:54 - The kindle newest first is verified
+2019-10-15 15:20:00,416  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:20:00,416  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:20:00,504  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:20:00,508  INFO [main] Config files:54 - The kindle newest first is verified
+2019-10-15 15:20:00,508  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:20:00,508  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:20:00,612  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:20:00,612  INFO [main] Config files:54 - The kindle newest first is verified
+2019-10-15 15:20:00,612  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:20:00,614  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:20:03,399  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:20:03,399  INFO [main] log4j:27 - Getting list performs
+2019-10-15 15:20:03,454  INFO [main] log4j:27 - got list
+2019-10-15 15:20:03,454  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:20:03,530  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:20:03,530  INFO [main] Config files:54 - The kindle oldest first is verified
+2019-10-15 15:20:03,530  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:20:03,534  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:20:03,606  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:20:03,606  INFO [main] Config files:54 - The kindle oldest first is verified
+2019-10-15 15:20:03,606  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:20:03,606  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:20:03,746  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:20:03,746  INFO [main] Config files:54 - The kindle oldest first is verified
+2019-10-15 15:20:03,746  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:22:15,067  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 15:22:20,403  INFO [main] log4j:27 - URL opens
+2019-10-15 15:22:24,627  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 15:22:24,641  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:22:24,973  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:22:24,973  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 15:22:25,273  INFO [main] log4j:27 - positive value is entered
+2019-10-15 15:22:25,273  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:22:26,773  INFO [main] log4j:27 - click is done
+2019-10-15 15:22:26,812  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:22:26,892  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:22:27,108  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:22:27,112  INFO [main] Config files:54 - the product were equal
+2019-10-15 15:22:27,112  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:22:27,116  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:22:27,308  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:22:27,312  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 15:22:27,476  INFO [main] log4j:27 - negative value is entered
+2019-10-15 15:22:27,476  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:22:28,312  INFO [main] log4j:27 - click is done
+2019-10-15 15:22:28,312  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:22:28,396  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:22:28,396  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 15:22:28,396  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:22:28,396  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:22:28,600  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:22:28,600  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 15:22:28,744  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 15:22:28,744  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:22:29,584  INFO [main] log4j:27 - click is done
+2019-10-15 15:22:29,584  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:22:29,657  INFO [main] Config files:26 - splittext performs
+2019-10-15 15:22:29,661  INFO [main] Config files:32 - text splitted
+2019-10-15 15:22:29,661  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:22:29,661  INFO [main] Config files:54 - There is no such products try, different search
+2019-10-15 15:22:29,661  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:22:32,384  INFO [main] log4j:27 - URL opens
+2019-10-15 15:22:32,414  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 15:22:32,418  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:22:40,144  INFO [main] log4j:27 - click is done
+2019-10-15 15:22:40,166  INFO [main] log4j:27 - Got title from URL
+2019-10-15 15:22:40,166  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 15:22:40,202  INFO [main] log4j:27 - Scroll done
+2019-10-15 15:22:40,202  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:22:40,282  INFO [main] log4j:27 - Assertion starts
+2019-10-15 15:22:40,282  INFO [main] log4j:27 - The kindle product description is validated
+2019-10-15 15:22:40,282  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:22:40,422  INFO [main] log4j:27 - click is done
+2019-10-15 15:22:40,422  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:22:40,498  INFO [main] log4j:27 - Assertion starts
+2019-10-15 15:22:40,498  INFO [main] log4j:27 - The kindle product specification is validated
+2019-10-15 15:22:40,498  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:22:40,642  INFO [main] log4j:27 - click is done
+2019-10-15 15:22:40,642  INFO [main] log4j:27 - Getting list performs
+2019-10-15 15:22:40,686  INFO [main] log4j:27 - got list
+2019-10-15 15:22:40,686  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:22:40,762  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:22:40,762  INFO [main] Config files:54 - The kindle newest first is verified
+2019-10-15 15:22:40,762  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:22:40,762  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:22:40,830  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:22:40,830  INFO [main] Config files:54 - The kindle newest first is verified
+2019-10-15 15:22:40,830  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:22:40,834  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:22:40,898  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:22:40,898  INFO [main] Config files:54 - The kindle newest first is verified
+2019-10-15 15:22:40,898  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:22:40,902  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:22:46,912  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:22:46,912  INFO [main] log4j:27 - Getting list performs
+2019-10-15 15:22:46,953  INFO [main] log4j:27 - got list
+2019-10-15 15:22:46,953  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:22:47,033  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:22:47,033  INFO [main] Config files:54 - The kindle oldest first is verified
+2019-10-15 15:22:47,033  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:22:47,033  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:22:47,105  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:22:47,105  INFO [main] Config files:54 - The kindle oldest first is verified
+2019-10-15 15:22:47,105  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:22:47,105  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:22:47,177  INFO [main] Config files:52 - Assertion Starts
+2019-10-15 15:22:47,177  INFO [main] Config files:54 - The kindle oldest first is verified
+2019-10-15 15:22:47,177  INFO [main] Config files:55 - Assertion ends
+2019-10-15 15:25:20,006  INFO [main] Config files:63 - DriverInitiated
+2019-10-15 15:25:26,607  INFO [main] log4j:27 - URL opens
+2019-10-15 15:25:30,819  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 15:25:30,835  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:25:31,217  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:25:31,221  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 15:25:31,521  INFO [main] log4j:27 - positive value is entered
+2019-10-15 15:25:31,521  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:25:34,060  INFO [main] log4j:27 - click is done
+2019-10-15 15:25:34,060  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:25:34,153  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:25:34,369  INFO [main] log4j:27 - Assertion Starts
+2019-10-15 15:25:34,369  INFO [main] log4j:27 - the product were equal
+2019-10-15 15:25:34,373  INFO [main] log4j:27 - Assertion ends
+2019-10-15 15:25:34,373  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:25:34,589  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:25:34,593  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 15:25:34,785  INFO [main] log4j:27 - negative value is entered
+2019-10-15 15:25:34,785  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:25:35,665  INFO [main] log4j:27 - click is done
+2019-10-15 15:25:35,665  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:25:35,754  INFO [main] log4j:27 - Assertion Starts
+2019-10-15 15:25:35,754  INFO [main] log4j:27 - There is no such products try, different search
+2019-10-15 15:25:35,754  INFO [main] log4j:27 - Assertion ends
+2019-10-15 15:25:35,758  INFO [main] log4j:27 - Dropdown method starts to perform
+2019-10-15 15:25:35,942  INFO [main] log4j:27 - Dropdown method done
+2019-10-15 15:25:35,942  INFO [main] log4j:27 - Entering text into text box
+2019-10-15 15:25:36,102  INFO [main] log4j:27 - neutral value is entered
+2019-10-15 15:25:36,102  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:25:36,965  INFO [main] log4j:27 - click is done
+2019-10-15 15:25:36,965  INFO [main] log4j:27 - Getting text from data
+2019-10-15 15:25:37,073  INFO [main] log4j:27 - splittext performs
+2019-10-15 15:25:37,073  INFO [main] log4j:27 - text splitted
+2019-10-15 15:25:37,077  INFO [main] log4j:27 - Assertion Starts
+2019-10-15 15:25:37,077  INFO [main] log4j:27 - There is no such products try, different search
+2019-10-15 15:25:37,077  INFO [main] log4j:27 - Assertion ends
+2019-10-15 15:25:39,517  INFO [main] log4j:27 - URL opens
+2019-10-15 15:25:39,545  INFO [main] log4j:27 - Browser Maximized
+2019-10-15 15:25:39,549  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:25:45,963  INFO [main] log4j:27 - click is done
+2019-10-15 15:25:45,982  INFO [main] log4j:27 - Got title from URL
+2019-10-15 15:25:45,982  INFO [main] log4j:27 - Scrolls performed
+2019-10-15 15:25:46,018  INFO [main] log4j:27 - Scroll done
+2019-10-15 15:25:46,018  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:25:46,090  INFO [main] log4j:27 - Assertion starts
+2019-10-15 15:25:46,090  INFO [main] log4j:27 - The kitchen product description is validated
+2019-10-15 15:25:46,090  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:25:46,214  INFO [main] log4j:27 - click is done
+2019-10-15 15:25:46,214  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:25:46,290  INFO [main] log4j:27 - Assertion starts
+2019-10-15 15:25:46,290  INFO [main] log4j:27 - The kitchen product specification is validated
+2019-10-15 15:25:46,290  INFO [main] log4j:27 - Click is progressed
+2019-10-15 15:25:46,426  INFO [main] log4j:27 - click is done
+2019-10-15 15:25:46,426  INFO [main] log4j:27 - Getting list performs
+2019-10-15 15:25:46,474  INFO [main] log4j:27 - got list
+2019-10-15 15:25:46,474  INFO [main] log4j:27 - Getting Text present in an element
+2019-10-15 15:25:46,546  INFO [main] log4j:27 - Assertion Starts
