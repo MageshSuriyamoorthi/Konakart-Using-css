@@ -1,6 +1,12 @@
 package com.atmecs.Konakart.utils;
 
 import java.io.File;
+/*
+ * This Class used to define paths for all files.
+ *
+ *  
+ *  @author   Magesh S
+*/
 
 public class Classpaths {
 
@@ -22,14 +28,6 @@ public class Classpaths {
 
 	public static String loc_file_two = resource_file + File.separator + "locators" + File.separator
 			+ "konakarthero.properties";
-
-	// public static String loc_file_three = resource_file + File.separator +
-	// "locators"
-	// + File.separator + ".properties";
-
-	// public static String loc_file_four = resource_file + File.separator +
-	// "locators"
-	// + File.separator + ".properties";
 
 	public static String Chrome_file = Users_Home + File.separator + "lib" + File.separator + "chromedriver.exe";
 

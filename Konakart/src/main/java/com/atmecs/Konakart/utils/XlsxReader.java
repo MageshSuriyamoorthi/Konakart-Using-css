@@ -13,8 +13,16 @@ import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+/*
+ * This method used to read datavalues from xlsx files
+ *
+ *  
+ *  @author   Magesh S
+*/
 
-public class XlxsReader {
+import com.atmecs.Konakart.reports.Log4j;
+
+public class XlsxReader {
 
 	private Workbook workBook = null;
 	private Sheet sheet = null;
@@ -25,6 +33,7 @@ public class XlxsReader {
 	private FileInputStream fileInputStream = null;
 	private FileOutputStream fileOutput = null;
 	private String fileExtensionName;
+	Log4j log = new Log4j();
 
 	public String getCellDataByColumnName(String sheetName, String columnName, int rowIndex) {
 		int columnIndex = -1;
@@ -38,16 +47,15 @@ public class XlxsReader {
 				}
 			}
 			if (columnIndex == -1) {
-				return "Column doesn't exist with given name " + columnName;
+				return log.info("Column doesn't exist with given name ".concat(columnName));
 			}
 			return verifyCellData(rowIndex, columnIndex);
 		} catch (Exception exception) {
 
-			return "row " + rowIndex + " or column " + columnIndex + " does not exist  in xls";
+			return log.info("row " + rowIndex + " or column " + columnIndex + " does not exist  in xls");
 		}
 	}
 
-	@SuppressWarnings("deprecation")
 	public String verifyCellData(int rowIndex, int columnIndex) {
 		row = sheet.getRow(rowIndex);
 		if (row == null) {
@@ -100,9 +108,6 @@ public class XlxsReader {
 		} catch (FileNotFoundException fileNotFoundException) {
 
 			throw new FileNotFoundException("File doesn't exist in the given path: " + filePath);
-		} catch (IOException ioException) {
-
-			throw new IOException("File doesn't close properly: " + ioException.getMessage());
 		}
 	}
 
@@ -113,19 +118,10 @@ public class XlxsReader {
 			setPath(filepath);
 			sheet = workBook.getSheet(sheetName);
 			data = sheet.getRow(rowNum).getCell(cellNum).getStringCellValue();
-		} catch (IOException e) {
-			e.printStackTrace();
+		} catch (IOException exception) {
+			exception.printStackTrace();
 		}
 
 		return data;
 	}
-
-	public FileOutputStream getFileOutput() {
-		return fileOutput;
-	}
-
-	public void setFileOutput(FileOutputStream fileOutput) {
-		this.fileOutput = fileOutput;
-	}
-
 }

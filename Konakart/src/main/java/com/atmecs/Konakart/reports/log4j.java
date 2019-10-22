@@ -5,30 +5,28 @@ import org.apache.log4j.PropertyConfigurator;
 
 import com.atmecs.Konakart.utils.Classpaths;
 
-/**
+/*
  * Configure the log4j file path and to display output messages.
  * 
+ * 
+ * @author   Magesh.S
  */
 
-public class log4j {
+public class Log4j {
 
 	Logger logger = null;
 
-	public log4j() {
+	public Log4j() {
 		getlogger();
-		logger = Logger.getLogger(log4j.class.getName());
+		logger = Logger.getLogger(Log4j.class.getName());
 	}
 
 	public void getlogger() {
 		PropertyConfigurator.configure(Classpaths.log4j_file);
 	}
 
-	public void info(String message) {
+	public String info(String message) {
 		logger.info(message);
+		return message;
 	}
-
-	public void infoboo(boolean message) {
-		logger.info(message);
-	}
-
 }

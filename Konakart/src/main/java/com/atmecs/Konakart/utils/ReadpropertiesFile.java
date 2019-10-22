@@ -7,6 +7,12 @@ import java.io.IOException;
 import java.util.Arrays;
 import java.util.List;
 import java.util.Properties;
+/*
+ * This method used to read locators from .properties file
+ *
+ *  
+ *  @author   Magesh S
+*/
 
 public class ReadpropertiesFile {
 

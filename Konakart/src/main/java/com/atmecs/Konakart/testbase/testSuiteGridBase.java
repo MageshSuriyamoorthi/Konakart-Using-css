@@ -9,7 +9,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
 import com.atmecs.Konakart.utils.ReadpropertiesFile;
-import com.atmecs.Konakart.utils.utilityFiles;
+import com.atmecs.Konakart.utils.UtilityFiles;
 
 /*
  * This method used to select the browser or grid and
@@ -18,7 +18,7 @@ import com.atmecs.Konakart.utils.utilityFiles;
  *  @author   Magesh S
 */
 
-public class testSuiteGridBase {
+public class TestSuiteGridBase {
 	URL url;
 	String nodeurl, browser;
 	WebDriver driver;

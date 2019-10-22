@@ -5,11 +5,15 @@ import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.Status;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
+/*
+ * This method will configure and it will get the overall report.
+ * 
+ * 
+ * @author   Magesh.S
+ */
+public class ExtentReport {
 
-
-public class extentReport {
-
-	static ExtentHtmlReporter reporter = new ExtentHtmlReporter(Classpaths.extendreport + "home_service_validation.html");
+	static ExtentHtmlReporter reporter = new ExtentHtmlReporter(Classpaths.extendreport + "Konakart_validation.html");
 	static ExtentReports extent = new ExtentReports();
 
 	public static void reportLog(String testname, String Failuremsg) {

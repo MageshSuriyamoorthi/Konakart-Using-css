@@ -3,13 +3,14 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.atmecs.Konakart.testscripts.konakartHero">
+      <class name="com.atmecs.Konakart.testscripts.KonakartHero">
         <methods>
-          <include name="open_url"/>
-          <include name="Hero_validation"/>
+          <include name="hero_validation"/>
+          <include name="browserQuit"/>
+          <include name="report_generation"/>
           <include name="browserSelect"/>
         </methods>
-      </class> <!-- com.atmecs.Konakart.testscripts.konakartHero -->
+      </class> <!-- com.atmecs.Konakart.testscripts.KonakartHero -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

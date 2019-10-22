@@ -1,0 +1,4 @@
+# Created at 2019-10-16T17:59:53.239
+Boot Manifest-JAR contains absolute paths in classpath 'D:\training\eclipse-workspace\Konakart\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

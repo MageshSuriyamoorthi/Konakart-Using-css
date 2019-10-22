@@ -8,7 +8,11 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
-import org.testng.annotations.BeforeSuite;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Parameters;
 
 import com.atmecs.Konakart.utils.Classpaths;
 import com.atmecs.Konakart.utils.ReadpropertiesFile;
@@ -19,25 +23,25 @@ import com.atmecs.Konakart.utils.ReadpropertiesFile;
  *  
  *  @author   Magesh S
 */
-public class testSuiteBase {
+public class TestSuiteBase {
 	Logger loggerobject = Logger.getLogger("Config files");
 	ReadpropertiesFile propertyobject = new ReadpropertiesFile();
-	testSuiteGridBase invoke = new testSuiteGridBase();
+	TestSuiteGridBase invoke = new TestSuiteGridBase();
 	public static WebDriver driver;
-	String getlocatorstring, browser;
+	String getlocatorstring;
+	public String browser;
 
-	
-	@BeforeSuite
-	public void browserSelect() {
+	@BeforeClass
+	// @Parameters("browser")
+	public void browserSelect(/* String browserName */) {
 
 		getlocatorstring = propertyobject.getLocatorValue("config.runthrough");
-	
-		if (getlocatorstring.equalsIgnoreCase("browser")) {
 
-			browser = propertyobject.getLocatorValue("config.browsername");
-			String browserName = browser.toUpperCase();
-			
-			switch (browserName) {
+		if (getlocatorstring.equalsIgnoreCase("browser")) {
+			String browserName = propertyobject.getLocatorValue("config.browsername");
+			browser = browserName.toUpperCase();
+
+			switch (browser) {
 			case "CHROME":
 				System.setProperty("webdriver.chrome.driver", Classpaths.Chrome_file);
 				driver = new ChromeDriver();
@@ -48,33 +52,33 @@ public class testSuiteBase {
 				break;
 			case "IE":
 				System.setProperty("webdriver.edge.driver", Classpaths.IE_file);
-			//	DesiredCapabilities ieCaps = DesiredCapabilities.internetExplorer();
-				DesiredCapabilities ieCapabilities = DesiredCapabilities.internetExplorer();  
+				// DesiredCapabilities ieCaps = DesiredCapabilities.internetExplorer();
+				DesiredCapabilities ieCapabilities = DesiredCapabilities.internetExplorer();
 				ieCapabilities.setCapability(InternetExplorerDriver.INTRODUCE_FLAKINESS_BY_IGNORING_SECURITY_DOMAINS,
 						true);
-				ieCapabilities.setCapability(InternetExplorerDriver.INITIAL_BROWSER_URL, "https://bing.com");
+				ieCapabilities.setCapability(InternetExplorerDriver.INITIAL_BROWSER_URL, "https://atmecs.com");
 				driver = new InternetExplorerDriver(ieCapabilities);
 				break;
 			default:
 				loggerobject.info("Driver name need to given correctly ");
 			}
 			if (driver != null) {
-				loggerobject.info("DriverInitiated");
+				loggerobject.info(browser + "  DriverInitiated");
 			}
-			driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
-			driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 
 		} else if (getlocatorstring.equalsIgnoreCase("grid")) {
 
 			invoke.gridSelect();
 		}
-	}
-
-	//@AfterSuite
-	public void browserQuit() {
 		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
-		driver.close();
+		driver.get(propertyobject.getLocatorValue("url.home"));
+		driver.manage().window().maximize();
+	}
+
+	@AfterClass
+	public void browserQuit() {
+		//driver.close();
 	}
 
 }

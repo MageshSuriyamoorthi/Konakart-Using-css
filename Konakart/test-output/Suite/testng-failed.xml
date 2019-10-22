@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="6" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="methods">
+  <test thread-count="6" name="IE(failed)" parallel="methods">
+    <parameter name="browser" value="ie"/>
+    <classes>
+      <class name="com.atmecs.Konakart.testscripts.KonakartHero">
+        <methods>
+          <include name="hero_validation"/>
+          <include name="browserQuit"/>
+          <include name="homepage_Search"/>
+          <include name="report_generation"/>
+          <include name="browserSelect"/>
+        </methods>
+      </class> <!-- com.atmecs.Konakart.testscripts.KonakartHero -->
+    </classes>
+  </test> <!-- IE(failed) -->
+  <test thread-count="6" name="FirefoxTest(failed)" parallel="methods">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.atmecs.Konakart.testscripts.KonakartHero">
+        <methods>
+          <include name="browserQuit"/>
+          <include name="homepage_Search"/>
+          <include name="report_generation"/>
+          <include name="browserSelect"/>
+        </methods>
+      </class> <!-- com.atmecs.Konakart.testscripts.KonakartHero -->
+    </classes>
+  </test> <!-- FirefoxTest(failed) -->
+  <test thread-count="6" name="ChromeTest(failed)" parallel="methods">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.atmecs.Konakart.testscripts.KonakartHero">
+        <methods>
+          <include name="browserQuit"/>
+          <include name="homepage_Search"/>
+          <include name="report_generation"/>
+          <include name="browserSelect"/>
+        </methods>
+      </class> <!-- com.atmecs.Konakart.testscripts.KonakartHero -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [Suite] -->

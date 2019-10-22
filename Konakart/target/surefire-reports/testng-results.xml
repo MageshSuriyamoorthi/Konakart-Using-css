@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51813" started-at="2019-10-16T18:00:07 IST" finished-at="2019-10-16T18:00:58 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51813" started-at="2019-10-16T18:00:07 IST" finished-at="2019-10-16T18:00:58 IST">
+      <class name="com.atmecs.Konakart.testscripts.konakartHero">
+        <test-method status="PASS" signature="open_url()[pri:0, instance:com.atmecs.Konakart.testscripts.konakartHero@e4487af]" name="open_url" is-config="true" duration-ms="2891" started-at="2019-10-16T18:00:31 IST" finished-at="2019-10-16T18:00:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_url -->
+        <test-method status="PASS" signature="homepage_Search()[pri:0, instance:com.atmecs.Konakart.testscripts.konakartHero@e4487af]" name="homepage_Search" duration-ms="4174" started-at="2019-10-16T18:00:34 IST" finished-at="2019-10-16T18:00:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage_Search -->
+        <test-method status="PASS" signature="open_url()[pri:0, instance:com.atmecs.Konakart.testscripts.konakartHero@e4487af]" name="open_url" is-config="true" duration-ms="1200" started-at="2019-10-16T18:00:38 IST" finished-at="2019-10-16T18:00:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_url -->
+        <test-method status="PASS" signature="hero_validation()[pri:1, instance:com.atmecs.Konakart.testscripts.konakartHero@e4487af]" name="hero_validation" duration-ms="13679" started-at="2019-10-16T18:00:40 IST" finished-at="2019-10-16T18:00:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hero_validation -->
+        <test-method status="PASS" signature="close_Browser()[pri:0, instance:com.atmecs.Konakart.testscripts.konakartHero@e4487af]" name="close_Browser" is-config="true" duration-ms="5043" started-at="2019-10-16T18:00:53 IST" finished-at="2019-10-16T18:00:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_Browser -->
+      </class> <!-- com.atmecs.Konakart.testscripts.konakartHero -->
+      <class name="com.atmecs.Konakart.testscripts.konakartHome">
+        <test-method status="PASS" signature="browserSelect()[pri:0, instance:com.atmecs.Konakart.testscripts.konakartHome@687e99d8]" name="browserSelect" is-config="true" duration-ms="8404" started-at="2019-10-16T17:59:58 IST" finished-at="2019-10-16T18:00:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSelect -->
+        <test-method status="PASS" signature="open_url()[pri:0, instance:com.atmecs.Konakart.testscripts.konakartHome@687e99d8]" name="open_url" is-config="true" duration-ms="12801" started-at="2019-10-16T18:00:07 IST" finished-at="2019-10-16T18:00:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_url -->
+        <test-method status="PASS" signature="homepage_Search()[pri:0, instance:com.atmecs.Konakart.testscripts.konakartHome@687e99d8]" name="homepage_Search" duration-ms="11880" started-at="2019-10-16T18:00:19 IST" finished-at="2019-10-16T18:00:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage_Search -->
+      </class> <!-- com.atmecs.Konakart.testscripts.konakartHome -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

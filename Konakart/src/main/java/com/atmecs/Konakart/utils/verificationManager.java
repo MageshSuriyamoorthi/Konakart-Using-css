@@ -9,13 +9,20 @@ import org.apache.log4j.Logger;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 
-import com.atmecs.Konakart.reports.log4j;
+import com.atmecs.Konakart.reports.Log4j;
+/*
+ *This method used to validate all the assert in 
+ *the script.
+ *
+ *  
+ *  @author   Magesh S
+*/
 
-public class verificationManager {
-	public static log4j log4jobject = new log4j();
+public class VerificationManager {
+	public static Log4j log4jobject = new Log4j();
 
 	static Logger log = Logger.getLogger("Config files");
-	static XlxsReader xlxsreader = utilityFiles.getXlsReader(Classpaths.Excel_file_one);
+	static XlsxReader xlxsreader = UtilityFiles.getXlsReader(Classpaths.Excel_file_one);
 
 	public void assertequals(String actual, List<WebElement> expected, String message) {
 		log4jobject.info("Performing assertion");

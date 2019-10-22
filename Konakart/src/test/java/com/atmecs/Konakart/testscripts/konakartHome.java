@@ -1,50 +1,54 @@
 package com.atmecs.Konakart.testscripts;
 
 import java.util.List;
-import org.testng.annotations.BeforeMethod;
+
 import org.testng.annotations.Test;
 
-import com.atmecs.Konakart.scriptbase.konakartPage;
-import com.atmecs.Konakart.testbase.testSuiteBase;
+import com.atmecs.Konakart.scriptbase.KonakartPage;
+import com.atmecs.Konakart.testbase.TestSuiteBase;
 import com.atmecs.Konakart.utils.ReadpropertiesFile;
-import com.atmecs.Konakart.utils.utilityFiles;
-import com.atmecs.Konakart.utils.verificationManager;
+import com.atmecs.Konakart.utils.UtilityFiles;
+import com.atmecs.Konakart.utils.VerificationManager;
+/*
+ * This method is the script of the first scenario. 
+ *
+ *  
+ *  @author   Magesh S
+*/
 
-public class konakartHome extends testSuiteBase {
-	utilityFiles util = new utilityFiles();
+public class KonakartHome extends TestSuiteBase {
+	UtilityFiles util = new UtilityFiles();
+	TestSuiteBase test = new TestSuiteBase();
 	ReadpropertiesFile property = new ReadpropertiesFile();
-	konakartPage konakartpage = new konakartPage();
+	KonakartPage konakartpage = new KonakartPage();
 	String actual, expected;
 
-	@BeforeMethod
-	public void open_url() {
-		util.geturl(property.getLocatorValue("url.home"));
-		util.maximize();
-	}
-
-	@Test(priority = 0)
+	@Test
 	public void homepage_Search() {
-		konakartpage.searchproduct(utilityFiles.gettextdataone("dropdown_data"), "positive value");
 
-		expected = utilityFiles.getActual(property.getLocatorValue("locator.product.available"));
+		konakartpage.searchproduct(UtilityFiles.gettextdataone("dropdown_data"), "positive value");
 
-		actual = utilityFiles.getActual(property.getLocatorValue("locator.product.text"));
+		expected = UtilityFiles.getActual(property.getLocatorValue("locator.product.available"));
 
-		verificationManager.assertequals(actual, expected, "the product were equal");
+		actual = UtilityFiles.getActual(property.getLocatorValue("locator.product.text"));
 
-		konakartpage.searchproduct(utilityFiles.gettextdataone("dropdown_data"), "negative value");
+		VerificationManager.assertequals(actual, expected, "the product were equal");
 
-		actual = utilityFiles.getActual(property.getLocatorValue("locator.product.validate"));
+		konakartpage.searchproduct(UtilityFiles.gettextdataone("dropdown_data"), "negative value");
 
-		verificationManager.assertequals(actual, utilityFiles.gettextdataone("negativevalues"),"There is no such products try, different search");
+		actual = UtilityFiles.getActual(property.getLocatorValue("locator.product.validate"));
 
-		konakartpage.searchproduct(utilityFiles.gettextdataone("dropdown_data"), "neutral value");
+		VerificationManager.assertequals(actual, UtilityFiles.gettextdataone("negativevalues"),
+				"There is no such products try, different search");
 
-		actual = utilityFiles.getActual(property.getLocatorValue("locator.product.validate"));
+		konakartpage.searchproduct(UtilityFiles.gettextdataone("dropdown_data"), "neutral value");
 
-		List<String> needed = verificationManager.Splittext("for", actual);
+		actual = UtilityFiles.getActual(property.getLocatorValue("locator.product.validate"));
 
-		verificationManager.assertequals(needed.get(0), utilityFiles.gettextdataone("neutralvalues"),
+		List<String> needed = VerificationManager.Splittext("for", actual);
+
+		VerificationManager.assertequals(needed.get(0), UtilityFiles.gettextdataone("neutralvalues"),
 				"There is no such products try, different search");
 	}
+
 }

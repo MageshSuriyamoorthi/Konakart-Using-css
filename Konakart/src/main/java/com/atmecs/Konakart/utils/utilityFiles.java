@@ -15,23 +15,22 @@ import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.FluentWait;
 import org.openqa.selenium.support.ui.Select;
 
-import com.atmecs.Konakart.reports.log4j;
-import com.atmecs.Konakart.testbase.testSuiteBase;
+import com.atmecs.Konakart.reports.Log4j;
+import com.atmecs.Konakart.testbase.TestSuiteBase;
 
 /*
- * This method used to perform some action on the script.
+ * This method used to perform some action in the script.
  *
  *  
  *  @author   Magesh S
 */
 
-public class utilityFiles extends testSuiteBase {
+public class UtilityFiles extends TestSuiteBase {
 	WebElement element;
-	// By findelement=null;
 	String getval;
 	public static ReadpropertiesFile readpropertyobject = new ReadpropertiesFile();
-	public static log4j log4jobject = new log4j();
-	public static XlxsReader xlxsreaderobject = utilityFiles.getXlsReader(Classpaths.Excel_file_one);
+	public static Log4j log4jobject = new Log4j();
+	public static XlsxReader xlxsreaderobject = UtilityFiles.getXlsReader(Classpaths.Excel_file_one);
 
 	public String gettitle() {
 		String getval = driver.getTitle();
@@ -132,7 +131,13 @@ public class utilityFiles extends testSuiteBase {
 	public WebElement click(String locatorValue) {
 		log4jobject.info("Click is progressed");
 		WebElement value = findMethod(locatorValue);
+		try {
 		value.click();
+		}
+		catch(Exception exception)
+		{
+			log4jobject.info(exception + "arose");
+		}
 		log4jobject.info("click is done");
 		return value;
 	}
@@ -140,7 +145,7 @@ public class utilityFiles extends testSuiteBase {
 	public WebElement entertextone(String locatorValue, int text) {
 		log4jobject.info("Entering text into text box");
 		WebElement value = findMethod(locatorValue);
-		value.sendKeys(utilityFiles.gettextdata("textbox_values", text));
+		value.sendKeys(UtilityFiles.gettextdata("textbox_values", text));
 		log4jobject.info(text + " is entered");
 		return value;
 	}
@@ -148,7 +153,7 @@ public class utilityFiles extends testSuiteBase {
 	public WebElement entertext(String locatorValue, String text) {
 		log4jobject.info("Entering text into text box");
 		WebElement value = findMethod(locatorValue);
-		value.sendKeys(utilityFiles.gettextdataone(text));
+		value.sendKeys(UtilityFiles.gettextdataone(text));
 		log4jobject.info(text + " is entered");
 		return value;
 	}
@@ -210,8 +215,8 @@ public class utilityFiles extends testSuiteBase {
 		}
 	}
 
-	public static XlxsReader getXlsReader(String testDataFile) {
-		XlxsReader xlsReader = new XlxsReader();
+	public static XlsxReader getXlsReader(String testDataFile) {
+		XlsxReader xlsReader = new XlsxReader();
 
 		try {
 			xlsReader.setPath(testDataFile);
@@ -264,7 +269,7 @@ public class utilityFiles extends testSuiteBase {
 
 	public List<WebElement> getListOfWebElement(String locatorvalue) {
 		log4jobject.info("Getting list performs");
-		String[] locators = locatorvalue.split(":");
+		String[] locators = locatorvalue.split(":",2);
 		List<WebElement> list = driver.findElements(By.cssSelector(locators[1]));
 		log4jobject.info("got list");
 		return list;
@@ -294,29 +299,24 @@ public class utilityFiles extends testSuiteBase {
 		String replacedtext = readpropertyobject.getLocatorValue(Xpath).replace(replacingtext, expectedtext);
 		log4jobject.info("Replaced dynamic locator");
 		return replacedtext;
-
 	}
 	
 	public static String dynamictextreader(String sheetname,String column_name, int text) {
-		//log4jobject.info("Getting testdata");
 		String contents = xlxsreaderobject.getCellDataByColumnName(sheetname, column_name, text);
 		return contents;
 	}
 
 	public static String gettextdata(String column_name, int text) {
-		//log4jobject.info("Getting testdata");
 		String contents = xlxsreaderobject.getCellDataByColumnName("Sheet1", column_name, text);
 		return contents;
 	}
 
 	public static String gettextdataone(String column_name) {
-	//	log4jobject.info("Getting testdata");
 		String contents = xlxsreaderobject.getCellDataByColumnName("Sheet1", column_name, 1);
 		return contents;
 	}
 
 	public static String gettextdatatwo(String sheet_name, String column_name) {
-		//log4jobject.info("Getting testdata");
 		String contents = xlxsreaderobject.getCellDataByColumnName(sheet_name, column_name, 1);
 		return contents;
 	}
